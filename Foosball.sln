@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foosball", "Foosball\Foosball.csproj", "{0B842438-E508-4DBD-A998-1C06BCBBA7CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoosballTests", "FoosballTests\FoosballTests.csproj", "{2B61117A-EA8D-4559-8008-C0409C52928E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B842438-E508-4DBD-A998-1C06BCBBA7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B842438-E508-4DBD-A998-1C06BCBBA7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B842438-E508-4DBD-A998-1C06BCBBA7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B842438-E508-4DBD-A998-1C06BCBBA7CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B61117A-EA8D-4559-8008-C0409C52928E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B61117A-EA8D-4559-8008-C0409C52928E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B61117A-EA8D-4559-8008-C0409C52928E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B61117A-EA8D-4559-8008-C0409C52928E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08E0B884-3D85-4496-8442-C4C3E12A1765}
+	EndGlobalSection
+EndGlobal
